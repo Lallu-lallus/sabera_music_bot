@@ -10,7 +10,7 @@ Easy To Deploy 🤗
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Lallu-lallus/Alpha_music-bot)
 
 ## Group
-You can also join our support group [HERE!](https://t.me/tg_bots_disccurssions) 👨🏻‍💻
+You can also join our support group [HERE!](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://t.me/tg_bots_disccurssions) 👨🏻‍💻
 
 # Report error
 Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/Pro_editor_tg) 😪
