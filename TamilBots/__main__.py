@@ -18,7 +18,7 @@ Hey bru Iam a simble song paly please add me to your group and make me an admin�
 
 𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗
 
-𝐄𝐠. ```/s Faded```
+𝐄𝐠. ```/song Faded```
 """
 
 owner_help = """
