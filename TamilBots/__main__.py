@@ -21,7 +21,7 @@ Send /song song name in these<a href="https://t.me/mscgrp_krla"> krla_music_grou
 𝐄𝐠. ```/song Faded```
 
 ➖➖➖➖➖➖➖➖➖➖➖➖
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href="https://t.me/pro_editor_tg"> 𝙓ꪶꪖꪶꪶꪊˡᵃˡˡᵘ𝙓 </a>
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href="https://t.me/pro_editor_tg"> Lallu-llalus </a>
 """
 
 owner_help = """
