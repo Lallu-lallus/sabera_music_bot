@@ -14,11 +14,14 @@ start_text = """
 \n\n𝗜 𝗔𝗺 🎸SABERA [🎶](https://telegra.ph/file/419f9b44bec5fad553285.jpg)
 I am a simble music play bot😌
 
-Hey bru Iam a simble song paly please add me to your group and make me an admin😌 
+Hey bru Iam a simble song paly Bot I am share music at <a href="https://t.me/mscgrp_krla"> krla_music_group </a>😌 
 
-𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗
+Send /song{song name} in these<a href="https://t.me/mscgrp_krla"> krla_music_group </a>... 😍🥰🤗
 
 𝐄𝐠. ```/song Faded```
+
+➖➖➖➖➖➖➖➖➖➖➖➖
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ:<a href="https://t.me/pro_editor_tg"> 𝙓ꪶꪖꪶꪶꪊˡᵃˡˡᵘ𝙓,🇮🇳꠵ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ </a>
 """
 
 owner_help = """
