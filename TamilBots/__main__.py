@@ -37,9 +37,11 @@ async def start(client, message):
     name = message.from_user["first_name"]
     if message.chat.type == "private":
         btn = InlineKeyboardMarkup(
-           [[InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓 👬", url="https://t.me/tg_bots_disccurssions"),
+           [[InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓😉", url="https://t.me/tg_bots_disccurssions"),
              InlineKeyboardButton(
-                        text=" AD ME TO YOUR GROUP", url="http://t.me/Lalluasisst_robot?startgroup=true"
+                        text="AD ME😌", url="https://t.me/Lalluasisst_robot?startgroup=true")
+             InlinekeyboardButton(
+                        text="Master", url="https://t.me/pro_editor_tg" 
                     )
                 ]
             ]
