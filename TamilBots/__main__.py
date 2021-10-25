@@ -11,12 +11,12 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
 
-\n\n𝗜 𝗔𝗺 🎸SABERA [🎶](https://telegra.ph/file/419f9b44bec5fad553285.jpg)
+\n\n𝗜 𝗔𝗺 🎸SABER [🎶](https://telegra.ph/file/419f9b44bec5fad553285.jpg)
 I am a simble music play bot😌
 
 Hey bru Iam a simble song paly Bot I am share music at <a href="https://t.me/mscgrp_krla"> krla_music_group </a>😌 
 
-Send /song{song name} in these<a href="https://t.me/mscgrp_krla"> krla_music_group </a>... 😍🥰🤗
+Send /song song name in these<a href="https://t.me/mscgrp_krla"> krla_music_group </a>... 😍🥰🤗
 
 𝐄𝐠. ```/song Faded```
 
@@ -43,7 +43,7 @@ async def start(client, message):
 
            [[InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓😉", url="https://t.me/tg_bots_disccurssions"),
              InlineKeyboardButton(
-                        text="ADD ME😌", url="https://t.me/Lalluasisst_robot?startgroup=true"),
+                        text="JOIN😌", url="https://t.me/mscgrp_krla"),
              InlineKeyboardButton(text="Boss Baby 🍼", url="http://t.me/pro_editor_tg")                
                 ]
             ]
