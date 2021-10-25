@@ -9,13 +9,12 @@ from TamilBots.TamilBots import ignore_blacklisted_users
 from TamilBots.sql.chat_sql import add_chat_to_db
 
 start_text = """
-\n\n(https://telegra.ph/file/419f9b44bec5fad553285.jpg)
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
 
 \n\n𝗜 𝗔𝗺 🎸SABERA [🎶]
 I am a simble music play bot😌
 
-Hey bru Iam a simble song paly please add me to your group and make me an admin😌 
+Hey bru Iam a simble song paly please add me to your group and make me an admin😌 (https://telegra.ph/file/fcc01ad83f91fd8888e0c.mp4)
 
 𝗦𝗲𝗻𝗱 𝗧𝗵𝗲 𝗡𝗮𝗺𝗲 𝗢𝗳 𝗧𝗵𝗲 𝗦𝗼𝗻𝗴 𝗬𝗼𝘂 𝗪𝗮𝗻𝘁... 😍🥰🤗
 
