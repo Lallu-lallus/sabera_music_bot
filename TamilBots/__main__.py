@@ -40,7 +40,7 @@ async def start(client, message):
            [[InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓😉", url="https://t.me/tg_bots_disccurssions"),
              InlineKeyboardButton(
                         text="AD ME😌", url="https://t.me/Lalluasisst_robot?startgroup=true")] 
-            [InlinekeyboardButton(text="Boss Baby 🍼", url="http://t.me/pro_editor_tg"
+            [InlineKeyboardButton(text="Boss Baby 🍼", url="http://t.me/pro_editor_tg"
                     )
                 ]
             ]
